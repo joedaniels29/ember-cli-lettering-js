@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-lettering-js",
-  "description": "Include boubon in an ember-cli app",
-  "version": "0.0.5",
+  "description": "Include letteringjs in an ember-cli app",
+  "version": "0.0.1",
   "directories": {
     "doc": "doc",
     "test": "tests"
