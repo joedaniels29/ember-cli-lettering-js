@@ -1,5 +1,4 @@
 'use strict';
-
 module.exports = {
   name : 'ember-cli-lettering-js',
   afterInstall : function() {
