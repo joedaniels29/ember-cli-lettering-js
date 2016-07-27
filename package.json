@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-lettering-js",
   "description": "Include letteringjs in an ember-cli app",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "directories": {
     "doc": "doc",
     "test": "tests"
