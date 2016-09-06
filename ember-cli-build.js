@@ -8,7 +8,7 @@ module.exports = function(defaults) {
   // app.import(app.bowerDirectory + '/bootstrap/dist/css/bootstrap.css.map', {
   // destDir: 'assets'
   // });
-    app.import(app.bowerDirectory'/letteringjs/jquery.lettering.js');
+    app.import(app.bowerDirectory'/letteringjs/jqueremy.lettering.js');
 
   return app.toTree();
 };
