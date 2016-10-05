@@ -1,19 +1,22 @@
 # ember-cli-lettering.js
 
-Include lettering.js in an ember-cli app.
+Include [lettering.js](http://letteringjs.com/) in an ember-cli app.
 
-When the addon is installed, it will add lettering.js `latest` as
-a bower dependency.
+Provides a component for applying lettering to text 
 
 ## Dependencies
 
 There ought not be any Dependencies. This addon does not utilize sass.
 
-
 ## Usage
-Just install with
+Install with
 
     ember install ember-cli-lettering-js
+    bower install
+
+Apply lettering to text
+
+    {{#do-lettering}}Some Text{{/do-lettering}}
 
 ## Developing this Addon
 

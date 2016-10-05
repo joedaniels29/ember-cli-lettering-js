@@ -1,0 +1,22 @@
+.char1 {
+  color: #ff0000;
+  font-style: italic;
+  font-size: 22px;
+  font-family: sans-serif;
+}
+
+.char2 {
+
+  color: #00ff00;
+  font-weight: bold;
+  font-size: 3em;
+  font-family: monospace;
+}
+
+.char3 {
+  color: #0000ff;
+  font-size: 2em;
+  border: 1px solid #cccccc;
+  margin-left: 10px;
+  font-family: serif;
+}
