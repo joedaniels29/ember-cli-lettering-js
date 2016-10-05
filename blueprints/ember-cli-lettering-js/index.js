@@ -1,7 +1,8 @@
+/*jshint node:true*/
 module.exports = {
   normalizeEntityName: function() {},
 
-  afterInstall: function() {
-    return this.addBowerPackageToProject('textillate');
+  afterInstall: function (/* options */) {
+    return this.addBowerPackageToProject("letteringjs");
   }
 };
